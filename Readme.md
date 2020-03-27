@@ -7,4 +7,3 @@ cambios añadidos.
  * Por favor tener en cuenta los archivos añadidos a los ejemplos:
 
 ### 2.1 Subtitulo del Subtitulo.
-* Nuevos datos
