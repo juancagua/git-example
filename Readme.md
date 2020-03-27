@@ -7,5 +7,3 @@ cambios añadidos.
  * Por favor tener en cuenta los archivos añadidos a los ejemplos:
 
 ### 2.1 Subtitulo del Subtitulo.
- *Imagen del texto* 
- Por favor tener en cuenta este commit para eliminarlo.
