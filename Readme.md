@@ -15,4 +15,4 @@ Este subtitulo es para reemplazar
 
 # 6 No funcionó el Pull Request
 
-# El pull request tenia que crear nuevo branch 
+# 7 Esta vez si puedo crear una rama para el pull request
