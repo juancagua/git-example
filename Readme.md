@@ -16,3 +16,5 @@ Este subtitulo es para reemplazar
 # 6 No funcionó el Pull Request
 
 # 7 Esta vez si puedo crear una rama para el pull request
+
+# 8 Cambios de Juan Diego Cagua Gmail
