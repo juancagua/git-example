@@ -14,3 +14,4 @@ Este subtitulo es para reemplazar
 # 5 QUINTO TITULO, HACIENDO PULL REQUEST
 
 # 6 No funcionó el Pull Request
+# 7 Esta vez si puedo crear una rama para el pull request
