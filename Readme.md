@@ -14,3 +14,5 @@ Este subtitulo es para reemplazar
 # 5 QUINTO TITULO, HACIENDO PULL REQUEST
 
 # 6 No funcionó el Pull Request
+
+# El pull request tenia que crear nuevo branch 
