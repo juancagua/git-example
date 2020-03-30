@@ -21,4 +21,4 @@ Este subtitulo es para reemplazar
 
 # 9 Nuevo repositorio github - desde Hotmail
 
-# 10 Nuevo branch para observar cambios de los branch 
+# 10 Cambios abstractos
